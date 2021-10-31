@@ -9,7 +9,7 @@ from mysite.album import views
 
 urlpatterns = [
     # url(r'^$', views.photo_list, name='photo_list'),
-    path('success/', views.success, name = 'success'),
+    path('', views.success, name = 'success'),
     path('inpaint/', views.inpaint, name = 'inpaint'),
     path('red/', views.redphoto_list, name = 'red'),
     path('blue/', views.bluephoto_list, name = 'blue'),
