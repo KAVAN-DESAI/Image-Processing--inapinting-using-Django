@@ -1,5 +1,8 @@
 # Image Processor
-![Video](https://drive.google.com/drive/u/0/folders/1cTggiDtAojh9WkySAlKc6B-VRvP-K-NT)
+![Screenshot (276)](https://user-images.githubusercontent.com/62831469/146632780-ed3a2df1-4048-4f4f-954b-d00ed0adf421.png)
+![Screenshot (278)](https://user-images.githubusercontent.com/62831469/146632785-e2e2365e-d7ab-40f2-b95d-8bf6aa8a9175.png)
+
+
 This Image Processor is fully developed in Django, with mainly 2 functionality 
 * 1)In-Painting 
 * 2)Color Filter
